@@ -151,11 +151,11 @@ input[type=text]:focus  {
     border: none;
     color: white;
     padding: 14px 28px;
-    font-size: 18px;
+    font-size: 18px ;
     cursor: pointer;
 }
 
-.btn {background-color: #2196F3;} /* Blue */
+.btn {background-color: #2196F3;}
 .btn:hover {background: #0b7dda;}
 .btn:hover {
   background-color: #3e8e41;
