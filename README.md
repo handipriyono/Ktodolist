@@ -2,6 +2,14 @@
 to do list maker
 # K - to-do List Maker 
 
+**BEST VIEWED IN MOZILLA FIREFOX**
+
+
+
+
+
+
+
 ![Image of todolist](https://screenshotscdn.firefoxusercontent.com/images/cb547a14-5b46-4437-b7b6-a5f3f4472e0c.png)
 
 - simple to do list untuk mencatat pengingat maupun hal yang harus dilakukan dalam waktu dekat. 
